@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
